@@ -63,11 +63,11 @@
 <details open>
   <summary><b>🌱 Most used languages</b></summary>
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marki1ins&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosdfcarvalho&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
 </details>
 
 <details open>
   <summary><b>☄️ Github Streaks</b></summary>
   <br />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Marki1ins&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=marcosdfcarvalho&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/>
 </details>
