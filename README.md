@@ -57,11 +57,3 @@
 
 - Scrum 🤝
 - Extreme Programming 🏃‍♂
-
-### My Personal Stats 📊
-
-<details open>
-  <summary><b>☄️ Github Streaks</b></summary>
-  <br />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=marcosdfcarvalho&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/>
-</details>
