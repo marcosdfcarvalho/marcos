@@ -25,9 +25,11 @@
 <code><img height="27" src="https://cdn.simpleicons.org/javascript/99aab5" alt="javascript"></code>
 <code><img height="27" src="https://cdn.simpleicons.org/typescript/99aab5" alt="typescript"></code>
 <code><img height="27" src="https://cdn.simpleicons.org/node.js/99aab5" alt="node.js"></code>
+<code><img height="27" src="https://cdn.simpleicons.org/OpenJDK/99aab5" alt="node.js"></code>
 <code><img height="27" src="https://cdn.simpleicons.org/sqlite/99aab5" alt="sqlite"></code>
 <code><img height="27" src="https://cdn.simpleicons.org/mysql/99aab5" alt="mysql"></code>
 <code><img height="27" src="https://cdn.simpleicons.org/postgresql/99aab5" alt="postgresql"></code>
+<code><img height="27" src="https://cdn.simpleicons.org/mongodb/99aab5" alt="mysql"></code>
 
 ### Libraries 🌴
 
@@ -43,6 +45,8 @@
 <code><img height="27" src="https://cdn.simpleicons.org/tailwindcss/99aab5" alt="tailwindcss"></code>
 <code><img height="27" src="https://cdn.simpleicons.org/bootstrap/99aab5" alt="bootstrap"></code>
 <code><img height="27" src="https://cdn.simpleicons.org/springboot/99aab5" alt="bootstrap"></code>
+<code><img height="27" src="https://cdn.simpleicons.org/hibernate/99aab5" alt="bootstrap"></code>
+<code><img height="27" src="https://cdn.simpleicons.org/nestjs/99aab5" alt="bootstrap"></code>
 ### Tools ⚙
 
 <code><img height="27" src="https://cdn.simpleicons.org/visualstudiocode/99aab5" alt="vscode"></code>
