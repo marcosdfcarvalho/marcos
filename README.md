@@ -22,7 +22,6 @@
 
 <code><img height="27" src="https://cdn.simpleicons.org/html5/99aab5" alt="html5"></code>
 <code><img height="27" src="https://cdn.simpleicons.org/css3/99aab5" alt="css3"></code>
-<code><img height="27" src="https://cdn.simpleicons.org/javascript/99aab5" alt="javascript"></code>
 <code><img height="27" src="https://cdn.simpleicons.org/typescript/99aab5" alt="typescript"></code>
 <code><img height="27" src="https://cdn.simpleicons.org/node.js/99aab5" alt="node.js"></code>
 <code><img height="27" src="https://cdn.simpleicons.org/OpenJDK/99aab5" alt="node.js"></code>
@@ -44,6 +43,7 @@
 <code><img height="27" src="https://cdn.simpleicons.org/express/99aab5" alt="express"></code>
 <code><img height="27" src="https://cdn.simpleicons.org/tailwindcss/99aab5" alt="tailwindcss"></code>
 <code><img height="27" src="https://cdn.simpleicons.org/bootstrap/99aab5" alt="bootstrap"></code>
+<code><img height="27" src="https://cdn.simpleicons.org/angular/99aab5" alt="bootstrap"></code>
 <code><img height="27" src="https://cdn.simpleicons.org/springboot/99aab5" alt="bootstrap"></code>
 <code><img height="27" src="https://cdn.simpleicons.org/hibernate/99aab5" alt="bootstrap"></code>
 <code><img height="27" src="https://cdn.simpleicons.org/nestjs/99aab5" alt="bootstrap"></code>
@@ -54,6 +54,7 @@
 <code><img height="27" src="https://cdn.simpleicons.org/insomnia/99aab5" alt="insomnia"></code>
 <code><img height="27" src="https://cdn.simpleicons.org/postman/99aab5" alt="postman"></code>
 <code><img height="27" src="https://cdn.simpleicons.org/figma/99aab5" alt="figma"></code>
+<code><img height="27" src="https://cdn.simpleicons.org/azuredevops/99aab5" alt="figma"></code>
 <code><img height="27" src="https://cdn.simpleicons.org/clickup/99aab5" alt="clickup"></code>
 <code><img height="27" src="https://cdn.simpleicons.org/trello/99aab5" alt="trello"></code>
 <code><img height="27" src="https://cdn.simpleicons.org/microsoftteams/99aab5" alt="microsoft teams"></code>
